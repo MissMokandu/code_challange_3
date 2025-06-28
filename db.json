@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Getting Started with Blog Post Manager",
       "authorId": 101,
-      "date": "2023-10-26T10:00:00Z",
-      "content": "Welcome to your new blog post manager! This is your first sample post. You can use this platform to create, edit, and publish engaging content for your audience. Explore the features and start sharing your ideas today!",
+      "date": "2023-10",
+      "content": "Brainstorm ideas, set statuses, and even keep track of how well your blog posts perform across various distribution channels. It’s the perfect template for small teams, solo publishers, and even large agencies who need to keep track of everything blog related",
       "tags": ["introduction", "guide", "setup"],
       "published": true
     },
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "The Art of Writing Engaging Blog Posts",
       "authorId": 102,
-      "date": "2023-11-01T14:30:00Z",
+      "date": "2023-11",
       "content": "Crafting compelling blog posts requires a blend of creativity and strategy. Focus on a clear message, tell a story, and use vivid language to capture your readers' attention. Don't forget the power of strong headlines and calls to action!",
       "tags": ["writing", "tips", "content creation"],
       "published": true
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "Future Features & Updates",
       "authorId": 101,
-      "date": "2023-12-15T09:15:00Z",
+      "date": "2023-12",
       "content": "We're constantly working to improve your experience. Upcoming features include advanced analytics, scheduled publishing, and more customization options for your blog's appearance. Stay tuned for exciting new updates!",
       "tags": ["roadmap", "updates", "features"],
       "published": false
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "Understanding SEO for Bloggers",
       "authorId": 103,
-      "date": "2024-01-20T11:00:00Z",
+      "date": "2024-01",
       "content": "Search Engine Optimization (SEO) is crucial for increasing your blog's visibility. Learn about keywords, meta descriptions, and backlinking strategies to help your content rank higher in search results. A well-optimized post can attract a wider audience.",
       "tags": ["seo", "marketing", "visibility"],
       "published": true
